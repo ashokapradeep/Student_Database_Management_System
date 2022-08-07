@@ -1,4 +1,4 @@
-# Student_Marks_management_System
+# Student_Database_Management_System
 CLI project to handle student data. (record, update, delete, print operations done only using fundamentals in java ) 
 import java.util.*;
 class StudentDB{
